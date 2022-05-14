@@ -1,0 +1,5 @@
+export ETH_KEYSTORE=/home/shahrukh1/Desktop/Seth2/KeyStoreKovan
+export ETH_FROM=0x743c9E764b788C8e21fF70108Ee1C34a5d713E60
+export SETH_CHAIN=kovan
+export ETH_PASSWORD=/home/shahrukh1/Desktop/Seth2/passphrase.txt
+export ETH_RPC_URL=https://kovan.infura.io/v3/fcc542108a974ce192b5938f724a3a8a
